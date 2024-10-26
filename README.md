@@ -1,8 +1,14 @@
+
+
 # Animated Column Clock
 
 This project implements an **animated column-based clock** that displays time using vertical columns for hours, minutes, and seconds. 
 The active numbers are highlighted with smooth transitions and animations. 
 This clock is designed with HTML, CSS, and JavaScript, featuring start and stop controls for dynamic updates.
+
+## Demo
+
+[Animated Column Clock Preview](https://chshankar19.github.io/Animated_clock/)
 
 ## Features
 
